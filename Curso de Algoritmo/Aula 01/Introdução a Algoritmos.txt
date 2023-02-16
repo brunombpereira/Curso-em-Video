@@ -1,0 +1,3 @@
+O que são Algoritmos?
+	
+	- Algoritmos são conjuntos de passos finitos e organizados que, quando executados, resolvem um determinado problema.
