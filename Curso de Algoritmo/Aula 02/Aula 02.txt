@@ -1,0 +1,94 @@
+Algoritmos Computacionais:
+
+	- São passos a serem seguidos por um módulo processador e seus respetivos usuários que, quando executados na ordem correta, conseguem realizar determinada tarefa.
+
+
+Módulo Processador:
+
+	- É tudo aquilo que pode efetuar processamento;
+
+	- É tudo aquilo que pode ser programável.
+
+
+1º --> Todo o Algoritmo Computacional começa com a Lógica de Programação.
+
+2º --> Depois da Lógica de Programação passa-se à escrita dessa Lógica em uma Linguagem de Programação.
+
+3º --> Depois da escrita da Lógica em uma Linguagem de Programação, essa Linguagem de Programação vai ser utilizada para criar um Sistema Completo, que é o aplicativo ou o software que o usuário vai utilizar.
+
+
+No Visualg:
+
+	- Caso não apareça nada escrito escreve-se "!" sem as aspas e depois cliac-se na tecla ctrl em conjunto com a tecla espaço e a aplicação mostra a estrutura para criar um algoritmo segundo o Visualg.
+
+
+Comandos de Saída do Visualg:
+
+	Escreva ("") --> escreve na tela o que o usuário pretende que seja exibido (a mensagem fica dentro das aspas, ver exemplo/ficheiro Ola-Mundo.ALG)
+
+			 --> faz com que as mensagens sejam escritas umas ao lado das outras (ver exemplo/ficheiro Exemplo-dois-Escreva-comando.ALG)
+
+	Escreval ("") --> o l significa linha
+			
+			  --> escreve a mensagem e passa para a linha de baixo (ver exemplo/ficheiro Escreval.ALG)
+
+
+Variáveis:
+
+	- São espaços;
+	
+	- Esses espaços podem ser preenchidos por valores;
+
+	- Só se pode atribuir um valor a uma variável;
+
+	- temos sempre de identificar o identificador e o tipo:
+
+		var
+		  
+		  identificador: tipo
+
+		- identificadores identificam determinadas variáveis
+
+		- existem 6 regras para nomeação de identificadores dentro do Visualg:
+
+			1ª regra --> tem que começar sempre com uma letra
+
+			2ª regra --> os próximos caracteres podem ser letras ou números
+
+			3ª regra --> não se pode utilizar nenhum símbolo exceto o símbolo _
+
+			4ª regra --> não pode conter espaços em branco
+
+			5ª regra --> não pode ter letras com acentos
+
+			6ª regra --> não pode ser uma palavra reservada:
+
+						- normalmente as palavras reservadas no Visualg aparecem num tom azul escuro e sublinhadas ou só sublinhadas
+
+
+Tipos primitivos:
+
+	Existem 4 tipos primitivos:
+
+		Inteiro --> permite que a variável guarde apenas números inteiros, ou seja, números que não possuam uma parte fracionária
+
+		Real --> permite que a variável guarde números inteiros e frácionários
+
+		     --> os números frácionários são representados com um . em vez de , (ex. 0.5)
+
+		Caractere --> é tudo o que é colocado entre aspas ""
+
+			    --> dentro das aspas pode-se usar símbolos, carcteres, espaços em branco, ...
+
+		Logico --> guarda apenas dois valores:
+		
+					- verdadeiro
+
+					- falso
+
+
+- Ver exemplo/ficheiro var.ALG
+
+- Ver exemplo/ficheiro atribuicao.ALG para entender qual a estrutura e como se atribui um valor a uma variável
+
+- Ver exemplo/ficheiro Escreval-var.ALG para entender qual a estrutura e como se mostra a mensagem de uma variável na tela
