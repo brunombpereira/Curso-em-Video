@@ -1,0 +1,62 @@
+Comandos de Entrada:
+
+	Leia(var) --> lê os dados escritos pelo utilizador
+
+
+Operadores Aritméticos (no Visualg):
+
+	A <- 5
+	b <- 2
+
+	+ --> Adição --> Ex: A + B = 7
+
+	- --> Subtração --> Ex: A - B = 3
+
+	* --> Multiplicação --> Ex: A * B = 10
+
+	/ --> Divisão --> Ex: A / B = 2.5
+
+	\ --> Divisão Inteira --> Ex: A \ B = 2
+
+	^ --> Exponencial --> Ex: A ^ B = 25
+
+	% --> Resto da Divisão --> Ex: A % B = 1
+
+
+Ordem de Precedência:
+
+	- É a ordem que prioridade que vai ser considerada quando se usa mais que um operador aritmético:
+
+			1º lugar --> () | Parênteses
+
+			2º lugar --> ^ | Exponencial
+
+			3º lugar --> * / | Multiplicação/Divisão
+
+			4º lugar --> + - | Adição/Subtração
+
+
+Funções Aritméticas (no Visualg):
+
+	Abs --> Valor Absoluto
+
+	Exp --> Exponencial
+
+	Int --> Valor Inteiro
+
+	RaizQ --> Raiz Quadrada
+
+	Pi --> Retorna Pi
+
+	Sen --> Seno(rad)
+
+	Cos --> Cosseno(rad)
+
+	Tan --> Tangente(rad)
+
+	GraupRad --> Graus para Rad
+
+
+Exercício 1:
+
+	Solicite dois números ao usuário e mostre a soma entre eles.
